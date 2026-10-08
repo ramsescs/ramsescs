@@ -13,9 +13,9 @@ I like building cool and useful things. Based in Madrid 📍
 
 #### 🚧 Stuff I'm building
 
-- 🚑 **[sns-voice-agent-elevenlabs](https://github.com/ramsescs/sns-voice-agent-elevenlabs)**: a phone triage agent for Spain's public health system (my thesis). Acuity is decided in code, not by the LLM, and it speaks the co-official languages
-- ⏱️ **[Timekeeper](https://github.com/ramsescs/Timekeeper)**: a macOS menu bar app that tracks my time and nags me to take breaks
-- 🔎 **[job-search-agent](https://github.com/ramsescs/job-search-agent)**: Claude Code doing my job hunt for me (mostly)
+- 🚑 **[sns-voice-agent-elevenlabs](https://github.com/ramsescs/sns-voice-agent-elevenlabs)**: a phone triage agent for Spain's public health system (my thesis).
+- ⏱️ **[Timekeeper](https://github.com/ramsescs/Timekeeper)**: a macOS menu bar app that tracks my time and nags me to take breaks.
+- 🔎 **[job-search-agent](https://github.com/ramsescs/job-search-agent)**: Claude Agent doing my job hunt for me (mostly).
 
 #### 📫 Say hi
 

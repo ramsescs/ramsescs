@@ -7,7 +7,7 @@ I like building cool and useful things. Based in Madrid 📍
 - 🎙️ Lately obsessed with **voice agents**: tools, guardrails, telephony, the whole thing
 - 🗣️ Spanish 🇪🇸 · English 🇬🇧 · Italian 🇮🇹
 
-#### 🛠️ What I work with
+#### 🛠️ What you will see me rocking with
 
 `Python` `FastAPI` `React/TypeScript` `SQL` · `LLM APIs` `RAG` `Agents` `ElevenLabs` `Claude Code` · `Azure` `Docker` `GitHub Actions`
 

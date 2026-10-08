@@ -1,6 +1,6 @@
 ### Hey, I'm Ramses 👋
 
-I build AI things that actually leave the demo stage. Based in Madrid 📍
+I like building cool and useful things. Based in Madrid 📍
 
 - 🏭 Spent 2.5 years at **Celonis** shipping RAG assistants, predictive models and FastAPI services for Fortune 500 clients (and got an Innovation of the Quarter award for one of them 🏆)
 - 🎓 Finishing my CS degree (AI track) at UC3M. I already have one in Business, so I can talk to the customers *and* the code

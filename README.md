@@ -19,4 +19,4 @@ I like building cool and useful things. Based in Madrid 📍
 
 #### 📫 Say hi
 
-[LinkedIn](https://www.linkedin.com/in/ramses-contreras-sulbaran) · ramses.contreras7@gmail.com · [ramsescs.github.io](ramsescs.github.io)
+[LinkedIn](https://www.linkedin.com/in/ramses-contreras-sulbaran) · ramses.contreras7@gmail.com · [ramsescs.github.io](https://ramsescs.github.io)
